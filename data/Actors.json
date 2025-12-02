@@ -10,5 +10,6 @@ null,
 {"id":8,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Roza","nickname":"","note":"","profile":""},
 {"id":9,"battlerName":"A_Matt","characterIndex":0,"characterName":"A_Matt","classId":7,"equips":[38,0,46,2,0],"faceIndex":0,"faceName":"Matt","traits":[],"initialLevel":1,"maxLevel":99,"name":"Matty B","nickname":"","note":"","profile":""},
 {"id":10,"battlerName":"","characterIndex":2,"characterName":"Nature","classId":6,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Nature","traits":[],"initialLevel":99,"maxLevel":99,"name":"Great Odin, the Oatster","nickname":"","note":"","profile":""},
-{"id":11,"battlerName":"","characterIndex":0,"characterName":"1Scott","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Scott","traits":[],"initialLevel":1,"maxLevel":99,"name":"Scott","nickname":"","note":"","profile":""}
+{"id":11,"battlerName":"","characterIndex":0,"characterName":"1Scott","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Scott","traits":[],"initialLevel":1,"maxLevel":99,"name":"Scott","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"A_Iron_Fist","characterIndex":0,"characterName":"Iron_Fist","classId":5,"equips":[35,0,0,0,0],"faceIndex":0,"faceName":"Iron Fist","traits":[],"initialLevel":99,"maxLevel":99,"name":"Iron Fist","nickname":"","note":"","profile":""}
 ]
